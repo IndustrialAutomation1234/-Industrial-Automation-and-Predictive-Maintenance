@@ -1,0 +1,2 @@
+Dataset 1-> https://www.kaggle.com/datasets/yidazhang07/bridge-cracks-image
+Dataset 2 -> https://datasetninja.com/kolektor-surface-defect-dataset-2
